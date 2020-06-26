@@ -11,7 +11,7 @@ option.add_argument("--disable-extensions")
 option.add_experimental_option("prefs", {
     "profile.default_content_setting_values.notifications": 2
 })
-driver = webdriver.Chrome(options=option, executable_path='C:\\Users\\rajan\\Desktop\\chromedriver')
+driver = webdriver.Chrome(options=option, executable_path='C:\\Users\\Desktop\\chromedriver')
 driver.get('https://www.facebook.com')
 
 time.sleep(1)
