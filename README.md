@@ -2,7 +2,7 @@
 
 <br>
 
-This is a bot which is developed using python's selenium module to automate whatsapp and Facebook to send messages.
+This is a bot which is developed using python's selenium module to automate whatsapp and Facebook to send messages. In this projects there are two python scripts which are the whatsapp bot and facebook bot. If you want to try you can just install the selenium module and then run the scripts as it is or you can read the code comments to understand the behind the scenes.
 <br> 
 ### Here are some things to get started with selenium.
 <br>
