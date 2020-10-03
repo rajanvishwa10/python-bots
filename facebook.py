@@ -1,10 +1,15 @@
+#import the libraries/modules which are required
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 from selenium.webdriver.common.keys import Keys
 from secret import email,password
 
+
+#create the object of the Options class to use the functions in that class.
 option = Options()
+
+#use the created object to call the functions 
 option.add_argument("start-maximized")
 option.add_argument("--disable-extensions")
 
